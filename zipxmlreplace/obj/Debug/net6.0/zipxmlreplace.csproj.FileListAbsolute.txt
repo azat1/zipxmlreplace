@@ -1,0 +1,12 @@
+D:\projects7\zipxmlreplace\zipxmlreplace\bin\Debug\net6.0\zipxmlreplace.exe
+D:\projects7\zipxmlreplace\zipxmlreplace\bin\Debug\net6.0\zipxmlreplace.deps.json
+D:\projects7\zipxmlreplace\zipxmlreplace\bin\Debug\net6.0\zipxmlreplace.runtimeconfig.json
+D:\projects7\zipxmlreplace\zipxmlreplace\bin\Debug\net6.0\zipxmlreplace.dll
+D:\projects7\zipxmlreplace\zipxmlreplace\bin\Debug\net6.0\zipxmlreplace.pdb
+D:\projects7\zipxmlreplace\zipxmlreplace\obj\Debug\net6.0\zipxmlreplace.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects7\zipxmlreplace\zipxmlreplace\obj\Debug\net6.0\zipxmlreplace.AssemblyInfoInputs.cache
+D:\projects7\zipxmlreplace\zipxmlreplace\obj\Debug\net6.0\zipxmlreplace.AssemblyInfo.cs
+D:\projects7\zipxmlreplace\zipxmlreplace\obj\Debug\net6.0\zipxmlreplace.csproj.CoreCompileInputs.cache
+D:\projects7\zipxmlreplace\zipxmlreplace\obj\Debug\net6.0\zipxmlreplace.dll
+D:\projects7\zipxmlreplace\zipxmlreplace\obj\Debug\net6.0\zipxmlreplace.pdb
+D:\projects7\zipxmlreplace\zipxmlreplace\obj\Debug\net6.0\zipxmlreplace.genruntimeconfig.cache

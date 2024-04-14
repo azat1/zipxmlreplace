@@ -1,0 +1,4 @@
+D:\projects7\zipxmlreplace\zipxmlreplace\obj\Debug\net5.0-windows\zipxmlreplace.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects7\zipxmlreplace\zipxmlreplace\obj\Debug\net5.0-windows\zipxmlreplace.AssemblyInfoInputs.cache
+D:\projects7\zipxmlreplace\zipxmlreplace\obj\Debug\net5.0-windows\zipxmlreplace.AssemblyInfo.cs
+D:\projects7\zipxmlreplace\zipxmlreplace\obj\Debug\net5.0-windows\zipxmlreplace.csproj.CoreCompileInputs.cache
